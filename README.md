@@ -17,7 +17,7 @@
 - Python
 
 **DevTools**
-- Git and Gitnuh
+- Git and Github
 - Docker
 
 
