@@ -4,7 +4,7 @@
 
 - Self taught programmer
 - Started to program as a hobbie
-- Now looking to work as a programmer
+- Now looking to work as a developer
 
 <h2> My Skills </h2>
 
