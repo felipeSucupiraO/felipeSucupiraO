@@ -10,7 +10,6 @@
 
 **Languages**
 
-- C#
 - HTML
 - CSS
 - Javascript
@@ -18,7 +17,6 @@
 
 **DevTools**
 - Git and Github
-- Docker
 
 
 
