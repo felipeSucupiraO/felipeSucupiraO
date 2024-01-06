@@ -8,7 +8,7 @@
 ```javascript
 const felipe = {
   programmerSince: 2017,
-  studentData {
+  studentData: {
     isStudent: true,
     university: "Federal University of Goiás",
     course: "Computer Science"
