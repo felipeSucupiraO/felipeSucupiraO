@@ -1,6 +1,7 @@
 <h2>📚 Welcome! I'm Felipe Sucupira. 📚</h2>
+<p> <b>Software engineer</b> <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width=30> </p>
 
-![Twitter](https://img.shields.io/badge/Linkedin-white?style=flat-square&logo=Linkedin&logoColor=%23FFFFFF&color=%23333333&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffelipe-sucupira-dev%2F)
+[![Linkedin](https://img.shields.io/badge/Linkedin-white?style=flat-square&logo=Linkedin&color=%23333333&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffelipe-sucupira-dev%2F)](https://www.linkedin.com/in/felipe-sucupira-dev/)
 ![Gmail](https://img.shields.io/badge/felipeoficial444%40gmail.com-white?style=flat-square&logo=Gmail&logoColor=%23FFFFFF&color=%23333333)
 
 
