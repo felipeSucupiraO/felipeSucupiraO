@@ -23,7 +23,7 @@ const felipe = {
 }
 ```
 
-#### <img src="https://media.giphy.com/media/Kc1TPDRWHydtU8wDzJ/giphy.gif" width=30> <i>Knoledge is enriching
+#### <img src="https://media.giphy.com/media/Kc1TPDRWHydtU8wDzJ/giphy.gif" width=30> <i>Knowledge is enriching
 
 
 
