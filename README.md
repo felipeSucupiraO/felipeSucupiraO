@@ -15,9 +15,9 @@ const felipe = {
     course: "Computer Science"
   },
   programmingLeanguages: [Javascript, HTML, CSS, Python, Java, C],
+  tecnologies: [React, Spring Boot, Tailwind]
   currentProjects: [
-    "Movie Catalog Website",
-    "Java Algorithms and Data Structures Repository"
+    "Finantial Assistant",
   ],
   currentlyLearning: ["Algorithms and Data Structures", "Databases"]
 }
