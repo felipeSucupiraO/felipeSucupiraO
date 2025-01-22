@@ -12,16 +12,17 @@ const felipe = {
   studentData: {
     isStudent: true,
     university: "Federal University of Goiás",
-    course: "Computer Science"
+    course: "Computer Science",
     graduationEstimateDate: "2/2028"
   },
-  programmingLeanguages: [Javascript, HTML, CSS, Python, Java, C],
-  tecnologies: [Javascript, React, Java, SpringBoot, C]
+  thingsThatILike: ["Playing instruments", "Video games", "Cooking", "Volleybal"],
+  programmingLeanguages: ["Javascript", "HTML", "CSS", "Python", "Java", "C"],
+  technologies: ["React", "SpringBoot", "Git and Github"],
   currentProjects: [
     "Finantial Assistant",
     "Task Manager"
   ],
-  currentlyLearning: ["Algorithms and Data Structures", "Databases", ]
+  currentlyLearning: ["Algorithms and Data Structures", "Databases", "Theory of Computation", "Linear Algebra", "Circuits"]
 }
 ```
 
