@@ -19,8 +19,7 @@ const felipe = {
   programmingLeanguages: ["Javascript", "HTML", "CSS", "Python", "Java", "C"],
   technologies: ["React", "SpringBoot", "Git and Github"],
   currentProjects: [
-    "Finantial Assistant",
-    "Task Manager"
+    "Next-Dashboard"
   ],
   currentlyLearning: ["Algorithms and Data Structures", "Databases", "Theory of Computation", "Linear Algebra", "Circuits"]
 }
